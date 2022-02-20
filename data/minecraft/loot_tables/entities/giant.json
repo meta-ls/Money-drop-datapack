@@ -20,7 +20,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"MetaLS Token 1\"}',Lore:['{"text":"this is real"}']},CustomModelData:100}"
+              "tag": "{display:{Name:'{"text":"MetaLS Token 1"}',Lore:['{"text":"this is real"}']},CustomModelData:100}"
             }
           ]
         }
